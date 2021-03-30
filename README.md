@@ -4,7 +4,8 @@ Ubiquitous Vision of Transformers for Person Re-identification: A self-attention
 Pytorch based library "[torchreid](https://github.com/KaiyangZhou/deep-person-reid)" is used for this work, which provides a unified interface for numerous public person re-id benchmarks. 
 
 # Evaluation
-UV re-id trained models can be downloaded from [GoogleDriver](https://drive.google.com/drive/folders/1uHLHLJwf5NfvzZL9AwemCmsY6334DWPy?usp=sharing)
+UV re-id trained models can be downloaded from [GoogleDriver](https://drive.google.com/drive/folders/1uHLHLJwf5NfvzZL9AwemCmsY6334DWPy?usp=sharing).
+
 Copy the trained weights in the directory of "models" before running the evaluation script: python eval.py 
 
 
