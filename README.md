@@ -5,7 +5,7 @@ Pytorch based library "[torchreid](https://github.com/KaiyangZhou/deep-person-re
 
 # Datasets
 
-Person Re-id datasets can be downloaded from the links given below. Extract the datasets and place in the respective sub-folders in the "reid-data" folder i.e. reid-data/market, reid/msmt17 etc.
+Person Re-id datasets can be downloaded from the links given below. Extract the datasets and place in the respective sub-folders in the "reid-data" folder i.e. reid-data/market, reid-data/msmt17 etc.
 
 ## Market1501
 Market 1501 dataset is an open-access dataset and can be downloaded from [Openlink](http://zheng-lab.cecs.anu.edu.au/Project/project_reid.html)
