@@ -25,7 +25,8 @@ Copy the trained weights in the directory of "models/market" before running the 
 # Citations
 If you find this code useful to your research, please cite the following papers.
 
-@article{torchreid, title={Torchreid: A Library for Deep Learning Person Re-Identification in Pytorch}, author={Zhou, Kaiyang and Xiang, Tao}, journal={arXiv preprint arXiv:1910.10093}, year={2019} }
+Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn, Xiaohua Zhai, Thomas Unterthiner, Mostafa Dehghani, Matthias Minderer, Georg Heigold, and Sylvain Gelly. An image is worth 16x16 words: Transformers for image recognition at scale. journal: arXiv preprint arXiv:2010.11929, 2020.
 
-@article{transformer,   title = {Attention is all you need}, author = {Vaswani et. al}, journal = {Advances in neural information processing systems}, year = {2017} }
+Zhou, Kaiyang and Xiang, Tao. Torchreid: A Library for Deep Learning Person Re-Identification in Pytorch. journal: arXiv preprint arXiv:1910.10093, 2019
 
+Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N Gomez, Lukasz Kaiser, and Illia Polosukhin. Attention is all you need. Advances in neural information processing systems, 30:5998–6008, 2017.
