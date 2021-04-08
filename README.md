@@ -5,7 +5,7 @@ Pytorch based library "[torchreid](https://github.com/KaiyangZhou/deep-person-re
 
 # Datasets
 
-Person Re-id datasets can be downloaded from the links given below. Extract the datasets and place in the respective sub-folders in the "reid-data" folder.
+Person Re-id datasets can be downloaded from the links given below. Extract the datasets and place in the respective sub-folders in the "reid-data" folder i.e. reid-data/market, reid/msmt17 etc.
 
 ## Market1501
 Market 1501 dataset is an open-access dataset and can be downloaded from [Openlink](http://zheng-lab.cecs.anu.edu.au/Project/project_reid.html)
@@ -19,7 +19,7 @@ MSMT17 dataset can be downloaded by following the detailed instructions availabl
 # Evaluation
 UV re-id trained models can be downloaded from [GoogleDriver](https://drive.google.com/drive/folders/1uHLHLJwf5NfvzZL9AwemCmsY6334DWPy?usp=sharing).
 
-Copy the trained weights in the directory of "models" before running the evaluation script: python eval.py 
+Copy the trained weights in the directory of "models/market" before running the evaluation script: python eval.py 
 
 
 # Citations
